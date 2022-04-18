@@ -21,7 +21,6 @@ public class CRUD {
             if (ch == 4) {
                 c.showRecord();
             }
-            System.out.println("jddjjdjjdjdj");
             if (ch == 5) {
                 c.closeConnection();
                 break;
